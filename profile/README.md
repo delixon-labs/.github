@@ -1,4 +1,4 @@
-## Deli Technology
+## Delixon Technology
 
 Construimos herramientas que simplifican el día a día del desarrollador.
 
