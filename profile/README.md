@@ -1,19 +1,27 @@
-## Delixon Technology
+## Delixon Labs
 
-Construimos herramientas que simplifican el día a día del desarrollador.
+Developer tools that simplify your workflow. Built by [XPlus Technologies LLC](https://xplustechnologies.com).
 
-### Delixon
+### Products
 
-Gestor de workspaces para desarrolladores. Centraliza proyectos, entornos, scripts, variables de entorno y configuraciones en una sola interfaz de escritorio.
+**[Nexenv](https://delixon.dev/nexenv)** — Workspace manager for developers. Centralizes projects, environments, scripts, env vars and configurations in a single desktop interface.
 
-- Desktop app multiplataforma (Tauri 2 + React 19 + Rust)
-- Sin servidores, sin cuentas — todo local y privado
-- Configuración portable entre equipos y máquinas
-- Detección automática de stack tecnológico
-- Templates de proyecto listos para usar
+- Cross-platform desktop app (Tauri 2 + React 19 + Rust)
+- No servers, no accounts — fully local and private
+- Portable configuration across machines
+- Automatic stack detection
+- Ready-to-use project templates
 
-**Stack:** Rust · TypeScript · React · Tailwind CSS · Tauri
+**Shield** — Source code protection and smart obfuscation. *Coming soon.*
+
+**OCR** — AI-powered document data extraction. *Coming soon.*
+
+**Forge** — Project scaffolding with best practices built in. *Coming soon.*
+
+### Stack
+
+Rust · TypeScript · React · Vue 3 · Nuxt 4 · Django · Tailwind CSS · Tauri · PostgreSQL · Docker
 
 ---
 
-*Más herramientas en desarrollo.*
+*[delixon.dev](https://delixon.dev) · © 2026 XPlus Technologies LLC*
