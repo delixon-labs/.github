@@ -12,11 +12,9 @@ Developer tools that simplify your workflow. Built by [XPlus Technologies LLC](h
 - Automatic stack detection
 - Ready-to-use project templates
 
-**Shield** — Source code protection and smart obfuscation. *Coming soon.*
+**[ContractSandbox](https://github.com/Xplus-Technologies-LLC/ContractSandbox)** — Smart contract testing and simulation environment.
 
-**OCR** — AI-powered document data extraction. *Coming soon.*
-
-**Forge** — Project scaffolding with best practices built in. *Coming soon.*
+**[PrismGraph](https://github.com/Xplus-Technologies-LLC/PrismGraph)** — Graph-based data visualization and analysis tool.
 
 ### Stack
 
