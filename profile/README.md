@@ -6,6 +6,21 @@ A division of [XPlus Technologies LLC](https://github.com/Xplus-Technologies-LLC
 
 ---
 
+### QiloBack
+
+**[QiloBack](https://qiloback.dev)** — Backend manufacturer. Declare entities, modules and policies in a YAML DSL; ship a production-grade FastAPI + PostgreSQL backend.
+
+- Source-available under [FSL-1.1-ALv2](https://github.com/delixon-labs/delixon-qiloback/blob/main/LICENSE)
+- Generated code is yours under Apache 2.0 — eject any time
+- Distribution: npm, pip, Homebrew, Scoop, Docker, GitHub Releases
+- Public repository: [`delixon-labs/delixon-qiloback`](https://github.com/delixon-labs/delixon-qiloback)
+
+```bash
+npm install -g @qiloback/qiloback   # or
+pip install qiloback-cli             # or
+brew install delixon-labs/tap/qiloback
+```
+
 ### Nexenv
 
 **[Nexenv](https://delixon.dev/nexenv)** — Workspace manager for developers. Centralizes projects, environments, scripts, env vars and configurations in a single desktop interface.
@@ -24,8 +39,4 @@ A division of [XPlus Technologies LLC](https://github.com/Xplus-Technologies-LLC
 
 ### Stack
 
-Rust · TypeScript · React · Vue 3 · Nuxt 4 · Django · Tailwind CSS · Tauri · PostgreSQL · Docker
-
----
-
-*[delixon.dev](https://delixon.dev) · Delixon Labs · [XPlus Technologies LLC](https://github.com/Xplus-Technologies-LLC)*
+Rust · TypeScript · React · Vue 3 · Nuxt 4 · Django · Python · FastAPI · Tailwind CSS · Tauri · PostgreSQL · Docker
